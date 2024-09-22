@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CsbindingDotnetConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
